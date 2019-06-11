@@ -19,20 +19,11 @@
 
 
 <hr>
-<style>
-div{
-	border:1px solid black;
-	background-color:lightblue;
-	padding-top:50px;
-	padding-right:30px;
-	padding-bottom:50px;
-	padding-left:80px}
-</style>
 
 <h2><font size="5">Resume</font></h2>
-<div><p><font size="4">Personal details</font></p>
+<p><font size="4">Personal details</font></p>
 <p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p>
-<h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
+<h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3>
 
 <h4> EDUCATION:</h4>
 <p>college:sarvodaya pre-university college</p>
