@@ -8,7 +8,7 @@
  <tr>
     <td>
 
-       <img src="C:\Users\Admin\Desktop\images\pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
+       <img src="C:\Users\Admin\Desktop\images\pallavi.jpg"alt="pictures\images.jpg" height="100" width="100">
   </td>
   <td>
 <h1 align="center">  PALLAVI  </h1>
